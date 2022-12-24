@@ -17,6 +17,6 @@ You may also see any lint errors in the console.
 # Loan Calculator - React App
 
 <p align="center">
-  <img style="max-width: 50%" src="./src/img/view.png">
+  <img width="200px" src="./src/img/view.png">
 </p>
 
